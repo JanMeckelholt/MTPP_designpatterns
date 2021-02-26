@@ -1,6 +1,6 @@
 # MTPP_designpatterns
 
-Example of the designpatterns:
+Example of the designpatterns:  
 Factory-Pattern  
 Observer-Pattern  
 Strategy-Pattern  
